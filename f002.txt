@@ -1,1 +1,3 @@
 Another file.
+
+Adds some text into second file.
