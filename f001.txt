@@ -1,1 +1,2 @@
-This is text file
+This is first text file.
+And it has a second line.
